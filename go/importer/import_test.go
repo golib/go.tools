@@ -19,8 +19,8 @@ import (
 	"testing"
 	"time"
 
-	"code.google.com/p/go.tools/go/gcimporter"
-	"code.google.com/p/go.tools/go/types"
+	"github.com/golib/go.tools/go/gcimporter"
+	"github.com/golib/go.tools/go/types"
 )
 
 var tests = []string{

@@ -12,7 +12,7 @@ import (
 	"go/token"
 	"math"
 
-	"code.google.com/p/go.tools/go/exact"
+	"github.com/golib/go.tools/go/exact"
 )
 
 /*

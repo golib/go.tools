@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"go/ast"
 
-	"code.google.com/p/go.tools/go/exact"
-	"code.google.com/p/go.tools/go/types"
+	"github.com/golib/go.tools/go/exact"
+	"github.com/golib/go.tools/go/types"
 )
 
 // PackageInfo holds the ASTs and facts derived by the type-checker

@@ -18,11 +18,11 @@ import (
 	"runtime"
 	"strings"
 
-	"code.google.com/p/go.tools/playground/socket"
-	"code.google.com/p/go.tools/present"
+	"github.com/golib/go.tools/playground/socket"
+	"github.com/golib/go.tools/present"
 )
 
-const basePkg = "code.google.com/p/go.tools/cmd/present"
+const basePkg = "github.com/golib/go.tools/cmd/present"
 
 var basePath string
 

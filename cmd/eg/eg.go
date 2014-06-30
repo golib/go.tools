@@ -10,8 +10,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"code.google.com/p/go.tools/go/loader"
-	"code.google.com/p/go.tools/refactor/eg"
+	"github.com/golib/go.tools/go/loader"
+	"github.com/golib/go.tools/refactor/eg"
 )
 
 var (

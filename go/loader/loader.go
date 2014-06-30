@@ -136,9 +136,9 @@ import (
 	"os"
 	"strings"
 
-	"code.google.com/p/go.tools/astutil"
-	"code.google.com/p/go.tools/go/gcimporter"
-	"code.google.com/p/go.tools/go/types"
+	"github.com/golib/go.tools/astutil"
+	"github.com/golib/go.tools/go/gcimporter"
+	"github.com/golib/go.tools/go/types"
 )
 
 // Config specifies the configuration for a program to load.

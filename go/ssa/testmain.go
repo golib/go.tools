@@ -14,7 +14,7 @@ import (
 	"os"
 	"strings"
 
-	"code.google.com/p/go.tools/go/types"
+	"github.com/golib/go.tools/go/types"
 )
 
 // CreateTestMainPackage creates and returns a synthetic "main"

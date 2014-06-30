@@ -20,8 +20,8 @@ import (
 	"strings"
 	"time"
 
-	"code.google.com/p/go.tools/blog/atom"
-	"code.google.com/p/go.tools/present"
+	"github.com/golib/go.tools/blog/atom"
+	"github.com/golib/go.tools/present"
 )
 
 var validJSONPFunc = regexp.MustCompile(`(?i)^[a-z_][a-z0-9_.]*$`)

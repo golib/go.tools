@@ -38,7 +38,7 @@ import (
 	"regexp"
 	"strings"
 
-	"code.google.com/p/go.tools/godoc/vfs"
+	"github.com/golib/go.tools/godoc/vfs"
 )
 
 // Functions in this file panic on error, but the panic is recovered

@@ -10,8 +10,8 @@ import (
 	"go/token"
 	"sort"
 
-	"code.google.com/p/go.tools/go/types"
-	"code.google.com/p/go.tools/oracle/serial"
+	"github.com/golib/go.tools/go/types"
+	"github.com/golib/go.tools/oracle/serial"
 )
 
 // Referrers reports all identifiers that resolve to the same object

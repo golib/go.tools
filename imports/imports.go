@@ -19,7 +19,7 @@ import (
 	"strconv"
 	"strings"
 
-	"code.google.com/p/go.tools/astutil"
+	"github.com/golib/go.tools/astutil"
 )
 
 // Options specifies options for processing files.

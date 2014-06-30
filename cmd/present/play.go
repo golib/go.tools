@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"code.google.com/p/go.tools/godoc/static"
+	"github.com/golib/go.tools/godoc/static"
 )
 
 var scripts = []string{"jquery.js", "jquery-ui.js", "playground.js", "play.js"}

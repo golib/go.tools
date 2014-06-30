@@ -18,9 +18,9 @@ import (
 	"runtime"
 	"time"
 
-	"code.google.com/p/go.tools/go/gccgoimporter"
-	_ "code.google.com/p/go.tools/go/gcimporter"
-	"code.google.com/p/go.tools/go/types"
+	"github.com/golib/go.tools/go/gccgoimporter"
+	_ "github.com/golib/go.tools/go/gcimporter"
+	"github.com/golib/go.tools/go/types"
 )
 
 var (

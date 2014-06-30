@@ -7,7 +7,7 @@
 package main
 
 import (
-	"code.google.com/p/go.tools/go/types"
+	"github.com/golib/go.tools/go/types"
 )
 
 func init() {
